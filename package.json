@@ -1,0 +1,23 @@
+{
+  "name": "test_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MS-Cinti/test_basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MS-Cinti/test_basics/issues"
+  },
+  "homepage": "https://github.com/MS-Cinti/test_basics#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
